@@ -1,6 +1,7 @@
 
-# React + V![lista-tareas](https://github.com/ProgramadorXP/lista-tareas-react/assets/155025727/b258a9d2-6e52-466a-baa1-0a36d1f57003)
-ite![Uploading lista-tareas.png…]()
+# React + Vite
+
+![lista-tareas](https://github.com/ProgramadorXP/lista-tareas-react/assets/155025727/de558433-5e63-46ab-b01d-0b6688c60ea0)
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
